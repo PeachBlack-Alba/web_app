@@ -1,0 +1,107 @@
+{
+  "name": "Alba Torres Rodriguez",
+  "email": "albatdr@gmail.com",
+  "subtitles": [
+    "Flutter Developer",
+    "Software Engineer"
+  ],
+  "blackWhitePhotoURL": "https://drive.google.com/uc?export=view&id=1np1Or8kvpEmH5ghkFN5GJGqU8VAQRUCH",
+  "coloredPhotoURL": "https://drive.google.com/uc?export=view&id=1wE4FRqC9bRrzOqS64b48--ykLK1yklTJ",
+  "socialLinks": [
+    {
+      "platform": "instagram",
+      "url": "https://instagram.com/hungrymode_js"
+    },
+    {
+      "platform": "twitter",
+      "url": "https://twitter.com/albatdr"
+    },
+    {
+      "platform": "linkedin",
+      "url": "https://www.linkedin.com/in/albatorresrodriguez"
+    },
+    {
+      "platform": "github",
+      "url": "https://github.com/PeachBlack-Alba"
+    },
+    {
+      "platform": "medium",
+      "url": "https://medium.com/@albatdr"
+    }
+  ],
+  "aboutMeHeadline": "I'm Alba Torres Rodriguez, a Software Engineer and a Flutter passionate.",
+  "aboutMeDetails": "I\\'m a Software Engineer from Spain. I have been developing mobile apps for a few years now. I have worked in teams for various companies; developing apps, releasing and managing applications in Google Play store and Apple app store. Currently working as a Software Engineer at Delivery Hero.",
+  "technologies": [
+    "Flutter",
+    "Dart",
+    "Python",
+    "Java",
+    "JavaScript",
+    "Firebase",
+    "Google Analytics",
+    "Reactive programming",
+    "GraphQl"
+  ],
+  "services": [
+    {
+      "icon": "assets/services/app.png",
+      "name": "Mobile App Development",
+      "description": "Android app development via Flutter\\n- BLoc\\n- Firebase\\n- REST APIs\\n- Google Analytics\\n- Unit Testing and more...!"
+    },
+    {
+      "icon": "assets/services/ui.png",
+      "name": "Skills",
+      "description": "Software Engineer\n- Python\n- Java\n- Test Automation\n- Git\n- Dart and more..!"
+    },
+    {
+      "icon": "assets/services/open.png",
+      "name": "Open Source - GitHub",
+      "description": "Open source GitHub Projects\\n- Awesome README.md\\n- Documented\\n- and more...!"
+    }
+  ],
+  "hireMe": {
+    "whatsapp": "+4917632774781"
+  },
+  "projects": [
+    {
+      "title": "PandaMerchant",
+      "iconUrl": "assets/projects/pandamerchand_logo.png",
+      "bannerUrl": "assets/projects/pandamerchant_app.png",
+      "description": "Develop pandamerchant: Flutter mobile application for restaurant owner to connect with food supplier."
+    },
+    {
+      "title": "The Base App",
+      "iconUrl": "assets/projects/the_base_logo.png",
+      "bannerUrl": "assets/projects/the_base.png",
+      "description": "Developed and maintained the Base App from scratch using Flutter."
+    },
+    {
+      "title": "Food Panda",
+      "iconUrl": "assets/projects/food_panda_app_logo.png",
+      "bannerUrl": "assets/projects/food_panda_app.png",
+      "description": "Develop and maintain Food Panda: Flutter mobile application for food and grocery delivery."
+    },
+    {
+      "title": "Mjam",
+      "iconUrl": "assets/projects/mjam_app_logo.png",
+      "bannerUrl": "assets/projects/mjam_app.png",
+      "description": "Develop and maintain mjam: Flutter mobile application for food and grocery delivery."
+    },
+    {
+      "title": "Talabat",
+      "iconUrl": "assets/projects/talabat_app.png",
+      "bannerUrl": "assets/projects/talabat_logo.png",
+      "description": "Develop, maintain and responsible of launch of Talabat: Flutter mobile application for food and grocery delivery."
+    }
+  ],
+  "contact": [
+    {
+      "param": "address",
+      "value": "Berlin,Germany"
+    },
+    {
+      "param": "email",
+      "value": "albatdr@gmail.com"
+    }
+  ]
+}
