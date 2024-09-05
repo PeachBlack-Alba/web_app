@@ -42,7 +42,7 @@ class StaticUtils {
     "https://medium.com/@albatdr"
   ];
 
-  static const String resume = 'https://drive.google.com/file/d/1rxO5cjsNQcOLz_ksdGB5wpupJTHiOBCE/view?usp=sharing';
+  static const String resume = 'https://drive.google.com/file/d/12DC3V7q3rTIu8cTBiDZorT7JO1xgqc4M/view?usp=sharing';
 
   static const String gitHub = 'https://github.com/PeachBlack-Alba';
 }

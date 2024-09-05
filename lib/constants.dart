@@ -9,7 +9,7 @@ void openURL(String url) => launchUrl(
 final kTools = [
   "Flutter",
   "Dart",
-  "Python",
-  "Java",
-  "JavaScript",
+  "SwiftUI (iOS)",
+  "Kotlin (Android)",
+  "React Native",
 ];
